@@ -6,6 +6,9 @@ html {
   height: 100%;
   width: 100%;
 background: black;
+  font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
@@ -13,13 +16,15 @@ h1 {
   margin-top: 550px;
   width: auto;
   font-size: 18px;
-  font-family: "Courier New", Courier, monospace;
-}
+font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;}
 p {
   text-align: justify;
   margin-left: 250px;
-  font-family: "Courier New", Courier, monospace;
-  color: aqua;
+font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;  color: aqua;
 }
 .rose {
   position: relative;
@@ -32,8 +37,9 @@ p {
 }
 .rose + span {
   position: absolute;
-  font-family: "Montserrat", san-serif;
-  font-weight: bold;
+  font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;
   font-size: 18px;
   color: #64b5ce;
   text-transform: uppercase;
@@ -366,7 +372,8 @@ p {
 #prompt {
   all: none;
   text-transform: none;
-  font-family: "Great Vibes", cursive;
+  font-family: "Mea Culpa", cursive;
+  font-style: normal;
   color: white;
   font-size: 2rem;
   width: max-content;
